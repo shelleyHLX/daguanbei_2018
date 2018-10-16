@@ -1,0 +1,154 @@
+2018-10-09 09:20:08,652 - ../../log/TextCNN_pdQS1000/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-10-09 09:20:08,652 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:0
+2018-10-09 09:20:52,419 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=99: f1_micro=0.13645, f1_macro=0.1210089335479385, score12=0.12872946677396924
+2018-10-09 09:21:31,125 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=199: f1_micro=0.29855, f1_macro=0.21698067414461097, score12=0.2577653370723055
+2018-10-09 09:22:09,480 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=299: f1_micro=0.26025, f1_macro=0.20557570707345008, score12=0.23291285353672503
+2018-10-09 09:22:46,928 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=399: f1_micro=0.43425, f1_macro=0.3894277817284706, score12=0.4118388908642353
+2018-10-09 09:23:25,410 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=499: f1_micro=0.40345, f1_macro=0.3710144615382223, score12=0.3872322307691112
+2018-10-09 09:24:03,074 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=599: f1_micro=0.493, f1_macro=0.4543533743616022, score12=0.47367668718080114
+2018-10-11 09:42:14,721 - ../../log/TextCNN_pdQS1000/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-10-11 09:42:14,747 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:0
+2018-10-11 11:59:03,923 - ../../log/TextCNN_pdQS1000/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-10-11 11:59:03,942 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:0
+2018-10-11 11:59:16,857 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=599: f1_micro=0.493, f1_macro=0.4543533743616022, score12=0.47367668718080114
+2018-10-11 12:00:19,945 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=699: f1_micro=0.43235, f1_macro=0.45169299658624895, score12=0.4420214982931245
+2018-10-11 12:01:08,382 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=799: f1_micro=0.47765, f1_macro=0.4257969774313978, score12=0.4517234887156989
+2018-10-11 12:01:56,735 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=899: f1_micro=0.56605, f1_macro=0.5454330731293141, score12=0.5557415365646571
+2018-10-11 12:02:49,777 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=999: f1_micro=0.5445, f1_macro=0.5063152568655037, score12=0.5254076284327518
+2018-10-11 12:03:37,820 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1099: f1_micro=0.60005, f1_macro=0.5663841816221751, score12=0.5832170908110875
+2018-10-11 12:04:28,513 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1199: f1_micro=0.57805, f1_macro=0.5573318749192046, score12=0.5676909374596022
+2018-10-11 12:04:43,571 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:1
+2018-10-11 12:05:15,495 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1299: f1_micro=0.62075, f1_macro=0.5963823956127555, score12=0.6085661978063778
+2018-10-11 12:06:02,765 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1399: f1_micro=0.6228, f1_macro=0.5994120997491299, score12=0.611106049874565
+2018-10-11 12:06:50,102 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1499: f1_micro=0.6366, f1_macro=0.6149023637459555, score12=0.6257511818729777
+2018-10-11 12:07:37,539 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1599: f1_micro=0.631, f1_macro=0.6118689630469469, score12=0.6214344815234735
+2018-10-11 12:08:23,848 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1699: f1_micro=0.63695, f1_macro=0.6135744372095739, score12=0.6252622186047869
+2018-10-11 12:09:10,166 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1799: f1_micro=0.6375, f1_macro=0.6151464864679813, score12=0.6263232432339907
+2018-10-11 12:09:40,011 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:2
+2018-10-11 12:09:57,507 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1899: f1_micro=0.6426, f1_macro=0.6233223329005253, score12=0.6329611664502626
+2018-10-11 12:10:44,909 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=1999: f1_micro=0.64465, f1_macro=0.6231037984626379, score12=0.6338768992313188
+2018-10-11 12:11:32,339 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2099: f1_micro=0.6451, f1_macro=0.6224473966828044, score12=0.6337736983414022
+2018-10-11 12:12:18,672 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2199: f1_micro=0.6463, f1_macro=0.6253167835608724, score12=0.6358083917804362
+2018-10-11 12:13:06,061 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2299: f1_micro=0.6464, f1_macro=0.6266569995059843, score12=0.6365284997529921
+2018-10-11 12:13:53,449 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2399: f1_micro=0.64745, f1_macro=0.6269417868905819, score12=0.6371958934452909
+2018-10-11 12:14:40,765 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2499: f1_micro=0.64905, f1_macro=0.6285929777449053, score12=0.6388214888724526
+2018-10-11 12:14:51,562 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:3
+2018-10-11 12:15:28,202 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2599: f1_micro=0.64895, f1_macro=0.6288812978930304, score12=0.6389156489465152
+2018-10-11 12:16:15,491 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2699: f1_micro=0.64855, f1_macro=0.6286370988924506, score12=0.6385935494462253
+2018-10-11 12:17:01,809 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2799: f1_micro=0.6487, f1_macro=0.6286222056908606, score12=0.6386611028454303
+2018-10-11 12:17:48,121 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2899: f1_micro=0.6488, f1_macro=0.6286182066906674, score12=0.6387091033453337
+2018-10-11 12:18:34,451 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=2999: f1_micro=0.64885, f1_macro=0.6283286052905952, score12=0.6385893026452976
+2018-10-11 12:19:20,857 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3099: f1_micro=0.64905, f1_macro=0.6286798034998332, score12=0.6388649017499166
+2018-10-11 12:19:45,013 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:4
+2018-10-11 12:20:07,284 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3199: f1_micro=0.6488, f1_macro=0.6283666404322338, score12=0.6385833202161169
+2018-10-11 12:20:53,663 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3299: f1_micro=0.649, f1_macro=0.6285133051413924, score12=0.6387566525706962
+2018-10-11 12:21:40,090 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3399: f1_micro=0.64895, f1_macro=0.628547525460871, score12=0.6387487627304356
+2018-10-11 12:22:26,455 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3499: f1_micro=0.64905, f1_macro=0.6284194687856539, score12=0.6387347343928269
+2018-10-11 12:23:12,850 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3599: f1_micro=0.64905, f1_macro=0.6283932839992761, score12=0.638721641999638
+2018-10-11 12:23:59,133 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3699: f1_micro=0.6493, f1_macro=0.6287199173561806, score12=0.6390099586780903
+2018-10-11 12:24:46,597 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3799: f1_micro=0.64965, f1_macro=0.6293012664620755, score12=0.6394756332310377
+2018-10-11 12:24:52,656 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:5
+2018-10-11 12:25:33,908 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3899: f1_micro=0.64965, f1_macro=0.6292105674421059, score12=0.6394302837210529
+2018-10-11 12:26:20,207 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=3999: f1_micro=0.64975, f1_macro=0.6293072296095493, score12=0.6395286148047747
+2018-10-11 12:27:07,648 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4099: f1_micro=0.6498, f1_macro=0.6293788178001837, score12=0.6395894089000919
+2018-10-11 12:27:55,036 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4199: f1_micro=0.6499, f1_macro=0.6294374376520545, score12=0.6396687188260273
+2018-10-11 12:28:42,366 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4299: f1_micro=0.64995, f1_macro=0.629567520166868, score12=0.639758760083434
+2018-10-11 12:29:29,775 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4399: f1_micro=0.64985, f1_macro=0.6294501678612621, score12=0.639650083930631
+2018-10-11 12:29:49,187 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:6
+2018-10-11 12:30:16,063 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4499: f1_micro=0.64995, f1_macro=0.6295066502147798, score12=0.63972832510739
+2018-10-11 12:31:02,436 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4599: f1_micro=0.64985, f1_macro=0.6294145388807554, score12=0.6396322694403778
+2018-10-11 12:31:48,747 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4699: f1_micro=0.6501, f1_macro=0.6296805227202352, score12=0.6398902613601176
+2018-10-11 12:32:36,138 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4799: f1_micro=0.6499, f1_macro=0.6295569301083935, score12=0.6397284650541968
+2018-10-11 12:33:22,384 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4899: f1_micro=0.64975, f1_macro=0.6293701573098175, score12=0.6395600786549087
+2018-10-11 12:34:08,681 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=4999: f1_micro=0.64995, f1_macro=0.6296070661819965, score12=0.6397785330909982
+2018-10-11 12:34:55,048 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5099: f1_micro=0.65025, f1_macro=0.6299115701524853, score12=0.6400807850762427
+2018-10-11 12:34:56,417 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:7
+2018-10-11 12:35:42,435 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5199: f1_micro=0.65, f1_macro=0.6295548187070584, score12=0.6397774093535292
+2018-10-11 12:36:28,756 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5299: f1_micro=0.64985, f1_macro=0.6293864555184154, score12=0.6396182277592077
+2018-10-11 12:37:14,972 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5399: f1_micro=0.64995, f1_macro=0.6295534507654369, score12=0.6397517253827185
+2018-10-11 12:38:01,308 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5499: f1_micro=0.6503, f1_macro=0.6298775513401991, score12=0.6400887756700995
+2018-10-11 12:38:48,749 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5599: f1_micro=0.6501, f1_macro=0.6296532633897288, score12=0.6398766316948644
+2018-10-11 12:39:35,086 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5699: f1_micro=0.6501, f1_macro=0.6296781934534542, score12=0.6398890967267271
+2018-10-11 12:39:49,830 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:8
+2018-10-11 12:40:21,444 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5799: f1_micro=0.65005, f1_macro=0.6296845704522348, score12=0.6398672852261174
+2018-10-11 12:41:07,758 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5899: f1_micro=0.65015, f1_macro=0.6297389737050508, score12=0.6399444868525255
+2018-10-11 12:41:54,125 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=5999: f1_micro=0.6501, f1_macro=0.6296758308199819, score12=0.639887915409991
+2018-10-11 12:42:40,519 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6099: f1_micro=0.6502, f1_macro=0.6297825764557755, score12=0.6399912882278878
+2018-10-11 12:43:26,852 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6199: f1_micro=0.64995, f1_macro=0.6295562943881788, score12=0.6397531471940894
+2018-10-11 12:44:13,191 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6299: f1_micro=0.6499, f1_macro=0.6294313738684342, score12=0.6396656869342171
+2018-10-11 12:44:42,297 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:9
+2018-10-11 12:44:59,442 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6399: f1_micro=0.65005, f1_macro=0.6296134073887111, score12=0.6398317036943555
+2018-10-11 12:45:46,035 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6499: f1_micro=0.65035, f1_macro=0.6299684759792781, score12=0.640159237989639
+2018-10-11 12:46:33,467 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6599: f1_micro=0.6501, f1_macro=0.6297191775412974, score12=0.6399095887706487
+2018-10-11 12:47:19,832 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6699: f1_micro=0.6502, f1_macro=0.6298512291474625, score12=0.6400256145737313
+2018-10-11 12:48:06,188 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6799: f1_micro=0.65, f1_macro=0.6295610855014353, score12=0.6397805427507177
+2018-10-11 12:48:52,517 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6899: f1_micro=0.64995, f1_macro=0.6295481695221308, score12=0.6397490847610654
+2018-10-11 12:49:38,868 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6999: f1_micro=0.65005, f1_macro=0.6296426757805509, score12=0.6398463378902755
+2018-10-11 12:49:48,938 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:10
+2018-10-11 12:50:25,246 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7099: f1_micro=0.65015, f1_macro=0.6297929830256254, score12=0.6399714915128127
+2018-10-11 12:51:11,601 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7199: f1_micro=0.6499, f1_macro=0.6295253926321063, score12=0.6397126963160531
+2018-10-11 12:51:57,948 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7299: f1_micro=0.6499, f1_macro=0.6295149170012927, score12=0.6397074585006464
+2018-10-11 12:52:44,296 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7399: f1_micro=0.6502, f1_macro=0.6298531959119203, score12=0.6400265979559602
+2018-10-11 12:53:30,645 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7499: f1_micro=0.65015, f1_macro=0.6297895079136967, score12=0.6399697539568483
+2018-10-11 12:54:17,063 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7599: f1_micro=0.6501, f1_macro=0.629700670726646, score12=0.639900335363323
+2018-10-11 12:54:41,549 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:11
+2018-10-11 12:55:03,453 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7699: f1_micro=0.65005, f1_macro=0.629603290779799, score12=0.6398266453898995
+2018-10-11 12:55:49,828 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7799: f1_micro=0.65015, f1_macro=0.6297156941413377, score12=0.6399328470706689
+2018-10-11 12:56:36,102 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7899: f1_micro=0.65005, f1_macro=0.6296431261112247, score12=0.6398465630556124
+2018-10-11 12:57:22,424 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=7999: f1_micro=0.64985, f1_macro=0.6294788674424431, score12=0.6396644337212216
+2018-10-11 12:58:08,869 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8099: f1_micro=0.6499, f1_macro=0.6294214726156051, score12=0.6396607363078026
+2018-10-11 12:58:55,274 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8199: f1_micro=0.65005, f1_macro=0.6296582318912889, score12=0.6398541159456445
+2018-10-11 12:59:41,626 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8299: f1_micro=0.64995, f1_macro=0.6295408114293872, score12=0.6397454057146936
+2018-10-11 12:59:46,988 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:12
+2018-10-11 13:00:27,960 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8399: f1_micro=0.65015, f1_macro=0.6297478901995206, score12=0.6399489450997603
+2018-10-11 13:01:14,309 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8499: f1_micro=0.64995, f1_macro=0.629530827487587, score12=0.6397404137437935
+2018-10-11 13:02:00,784 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8599: f1_micro=0.64995, f1_macro=0.6295119167460482, score12=0.6397309583730242
+2018-10-11 13:02:47,136 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8699: f1_micro=0.65, f1_macro=0.6295890862407255, score12=0.6397945431203628
+2018-10-11 13:03:33,489 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8799: f1_micro=0.6501, f1_macro=0.6296714923287694, score12=0.6398857461643848
+2018-10-11 13:04:19,833 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8899: f1_micro=0.65015, f1_macro=0.6297561875244839, score12=0.639953093762242
+2018-10-11 13:04:39,597 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:13
+2018-10-11 13:05:06,218 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=8999: f1_micro=0.65, f1_macro=0.6295527285579577, score12=0.6397763642789789
+2018-10-11 13:05:52,611 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9099: f1_micro=0.65005, f1_macro=0.6296477798094484, score12=0.6398488899047242
+2018-10-11 13:06:38,952 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9199: f1_micro=0.65005, f1_macro=0.6296712777193572, score12=0.6398606388596786
+2018-10-11 13:07:25,282 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9299: f1_micro=0.64995, f1_macro=0.6295435736062126, score12=0.6397467868031064
+2018-10-11 13:08:11,556 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9399: f1_micro=0.65, f1_macro=0.6295621070383678, score12=0.6397810535191839
+2018-10-11 13:08:57,955 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9499: f1_micro=0.6499, f1_macro=0.62955731456549, score12=0.639728657282745
+2018-10-11 13:09:44,394 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9599: f1_micro=0.65015, f1_macro=0.6297601788793854, score12=0.6399550894396927
+2018-10-11 13:09:45,064 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:14
+2018-10-11 13:10:30,678 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9699: f1_micro=0.6501, f1_macro=0.6296725473304433, score12=0.6398862736652217
+2018-10-11 13:11:17,079 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9799: f1_micro=0.65015, f1_macro=0.6296776604595761, score12=0.639913830229788
+2018-10-11 13:12:03,465 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9899: f1_micro=0.65015, f1_macro=0.6297131035787524, score12=0.6399315517893762
+2018-10-11 13:12:49,826 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=9999: f1_micro=0.6501, f1_macro=0.6296732564926617, score12=0.6398866282463309
+2018-10-11 13:13:36,240 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10099: f1_micro=0.6501, f1_macro=0.6296617581741323, score12=0.6398808790870661
+2018-10-11 13:14:22,578 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10199: f1_micro=0.65005, f1_macro=0.629617312508301, score12=0.6398336562541505
+2018-10-11 13:14:37,679 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:15
+2018-10-11 13:15:08,932 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10299: f1_micro=0.65025, f1_macro=0.6298443834755718, score12=0.6400471917377859
+2018-10-11 13:15:55,319 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10399: f1_micro=0.65, f1_macro=0.6296697978968782, score12=0.639834898948439
+2018-10-11 13:16:41,630 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10499: f1_micro=0.65005, f1_macro=0.6297215977932908, score12=0.6398857988966454
+2018-10-11 13:17:28,021 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10599: f1_micro=0.65005, f1_macro=0.6296480088567674, score12=0.6398490044283838
+2018-10-11 13:18:14,365 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10699: f1_micro=0.65015, f1_macro=0.629743986119771, score12=0.6399469930598856
+2018-10-11 13:19:00,747 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10799: f1_micro=0.6501, f1_macro=0.6296570135889367, score12=0.6398785067944683
+2018-10-11 13:19:30,278 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:16
+2018-10-11 13:19:47,105 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10899: f1_micro=0.6499, f1_macro=0.6294836381609963, score12=0.6396918190804981
+2018-10-11 13:20:33,416 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=10999: f1_micro=0.6501, f1_macro=0.6297334363476931, score12=0.6399167181738465
+2018-10-11 13:21:19,867 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11099: f1_micro=0.65005, f1_macro=0.629597427002255, score12=0.6398237135011275
+2018-10-11 13:22:06,285 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11199: f1_micro=0.64995, f1_macro=0.6295618511955865, score12=0.6397559255977933
+2018-10-11 13:22:52,612 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11299: f1_micro=0.65, f1_macro=0.6296149595235129, score12=0.6398074797617564
+2018-10-11 13:23:38,959 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11399: f1_micro=0.65015, f1_macro=0.6297363371223421, score12=0.6399431685611711
+2018-10-11 13:24:25,407 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11499: f1_micro=0.65, f1_macro=0.6295179275484861, score12=0.6397589637742431
+2018-10-11 13:24:35,850 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:17
+2018-10-11 13:25:11,788 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11599: f1_micro=0.65015, f1_macro=0.6297464540079992, score12=0.6399482270039996
+2018-10-11 13:25:58,197 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11699: f1_micro=0.6502, f1_macro=0.6298267598831612, score12=0.6400133799415806
+2018-10-11 13:26:44,576 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11799: f1_micro=0.6501, f1_macro=0.6297221354858881, score12=0.639911067742944
+2018-10-11 13:27:30,897 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11899: f1_micro=0.65015, f1_macro=0.6297926070051595, score12=0.6399713035025798
+2018-10-11 13:28:17,234 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=11999: f1_micro=0.65, f1_macro=0.6296363728896706, score12=0.6398181864448353
+2018-10-11 13:29:03,661 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=12099: f1_micro=0.65015, f1_macro=0.6297384210979068, score12=0.6399442105489535
+2018-10-11 13:29:28,463 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:18
+2018-10-11 13:29:49,991 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=12199: f1_micro=0.6501, f1_macro=0.6297094953812026, score12=0.6399047476906012
+2018-10-11 13:30:36,335 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=12299: f1_micro=0.6501, f1_macro=0.6296734016737352, score12=0.6398867008368676
+2018-10-11 13:31:22,682 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=12399: f1_micro=0.6501, f1_macro=0.6296578150527529, score12=0.6398789075263764
+2018-10-15 09:07:16,698 - ../../log/TextCNN_pdQS1000/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-10-15 09:07:16,726 - ../../log/TextCNN_pdQS1000/train.log - INFO - epoch:0
+2018-10-15 09:07:29,636 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6499: f1_micro=0.65035, f1_macro=0.6299684759792781, score12=0.640159237989639
+2018-10-15 09:08:25,688 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6599: f1_micro=0.65025, f1_macro=0.6298520175194737, score12=0.6400510087597369
+2018-10-15 09:09:14,578 - ../../log/TextCNN_pdQS1000/train.log - INFO - END:Global_step=6699: f1_micro=0.65025, f1_macro=0.6298875491963228, score12=0.6400687745981615

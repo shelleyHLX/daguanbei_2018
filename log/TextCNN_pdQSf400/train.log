@@ -1,0 +1,21 @@
+2018-08-22 15:24:20,114 - ../../log/TextCNN_pdQSf400/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-08-22 15:24:20,114 - ../../log/TextCNN_pdQSf400/train.log - INFO - epoch:0
+2018-08-22 15:24:36,655 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=99: f1_micro=0.0605, f1_macro=0.03707703937698905, score12=0.04878851968849453
+2018-08-22 15:24:53,661 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=199: f1_micro=0.0703, f1_macro=0.016652002799095088, score12=0.04347600139954755
+2018-08-22 15:25:09,521 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=299: f1_micro=0.066, f1_macro=0.024667631965447693, score12=0.045333815982723846
+2018-08-22 15:25:25,517 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=399: f1_micro=0.0837, f1_macro=0.03636732408330025, score12=0.06003366204165012
+2018-08-22 15:25:42,508 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=499: f1_micro=0.0692, f1_macro=0.02419239680333091, score12=0.04669619840166545
+2018-08-22 15:25:58,472 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=599: f1_micro=0.0649, f1_macro=0.02767911484501615, score12=0.04628955742250807
+2018-08-22 15:26:02,733 - ../../log/TextCNN_pdQSf400/train.log - INFO - epoch:1
+2018-08-22 15:26:18,568 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=699: f1_micro=0.0709, f1_macro=0.026877562026972158, score12=0.04888878101348608
+2018-08-22 15:44:08,544 - ../../log/TextCNN_pdQSf400/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-08-22 15:44:08,544 - ../../log/TextCNN_pdQSf400/train.log - INFO - epoch:0
+2018-08-22 15:44:14,728 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=399: f1_micro=0.0837, f1_macro=0.03636732408330025, score12=0.06003366204165012
+2018-08-22 15:44:44,741 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=499: f1_micro=0.0779, f1_macro=0.010534276835534515, score12=0.044217138417767254
+2018-08-22 15:58:21,019 - ../../log/TextCNN_pdQSf400/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-08-22 15:58:21,019 - ../../log/TextCNN_pdQSf400/train.log - INFO - epoch:0
+2018-08-22 15:59:07,967 - ../../log/TextCNN_pdQSf400/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-08-22 15:59:07,968 - ../../log/TextCNN_pdQSf400/train.log - INFO - epoch:0
+2018-08-22 15:59:24,787 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=99: f1_micro=0.0656, f1_macro=0.021661290885312445, score12=0.04363064544265623
+2018-08-22 15:59:41,977 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=199: f1_micro=0.07095, f1_macro=0.024959259367038716, score12=0.04795462968351936
+2018-08-22 15:59:59,400 - ../../log/TextCNN_pdQSf400/train.log - INFO - END:Global_step=299: f1_micro=0.06375, f1_macro=0.028301830170348107, score12=0.046025915085174056
